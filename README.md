@@ -2,7 +2,7 @@
 
 A clean, responsive front-end for a food ordering website — browse categories, view featured dishes, add items to a cart, and check out, all built with vanilla HTML, CSS, and JavaScript.
 
-**Live Demo:** [Vercel](https://foodielight.vercel.app/) | [GitHUb](https://mosaddekhossainmehedi.github.io/FooDielight/)
+**Live Demo:** [Vercel](https://foodielight.vercel.app/) | [GitHub](https://mosaddekhossainmehedi.github.io/FooDelight/)
 
 ---
 
